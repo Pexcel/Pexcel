@@ -1,0 +1,9 @@
+/.env
+.env
+__pycache__
+__pycache__/*
+__pycache__/
+*.sqlite3
+*.log
+deploy_credentials.py
+deploy.py
